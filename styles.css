@@ -12,7 +12,7 @@ section{
     height: 100%;
     width: 100%;
 }
-body{
+.feedback{
     display: flex;
     min-height: 100vh;
     align-items: center;
@@ -21,7 +21,19 @@ body{
     background-size: cover;
     background-position: center;
     
-} 
+}
+
+.thankyou{
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-image: url(thankyou.webp);
+    background-size: cover;
+    background-position: center;
+    
+}
+
 
 .container{
     width:360px;
