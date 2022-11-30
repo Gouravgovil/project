@@ -33,6 +33,17 @@ section{
     background-position: center;
     
 }
+.login {
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-image: url(login.jpg);
+    background-size: cover;
+    background-position: center;
+    
+
+}
 
 
 .container{
